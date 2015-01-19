@@ -1,0 +1,20 @@
+C:\Users\MrGrj\Desktop\YouTube Downloader_18-12-2014\bin\Debug\YouTube Downloader.exe
+C:\Users\MrGrj\Desktop\YouTube Downloader_18-12-2014\bin\Debug\YouTube Downloader.pdb
+C:\Users\MrGrj\Desktop\YouTube Downloader_18-12-2014\obj\x86\Debug\YouTube Downloader.csprojResolveAssemblyReference.cache
+C:\Users\MrGrj\Desktop\YouTube Downloader_18-12-2014\obj\x86\Debug\YouTube_Downloader.aboutDialog.resources
+C:\Users\MrGrj\Desktop\YouTube Downloader_18-12-2014\obj\x86\Debug\YouTube_Downloader.frmFileDownloader.resources
+C:\Users\MrGrj\Desktop\YouTube Downloader_18-12-2014\obj\x86\Debug\YouTube_Downloader.mainForm.resources
+C:\Users\MrGrj\Desktop\YouTube Downloader_18-12-2014\obj\x86\Debug\YouTube_Downloader.Properties.Resources.resources
+C:\Users\MrGrj\Desktop\YouTube Downloader_18-12-2014\obj\x86\Debug\YouTube Downloader.csproj.GenerateResource.Cache
+C:\Users\MrGrj\Desktop\YouTube Downloader_18-12-2014\obj\x86\Debug\YouTube Downloader.exe
+C:\Users\MrGrj\Desktop\YouTube Downloader_18-12-2014\obj\x86\Debug\YouTube Downloader.pdb
+C:\Users\MrGrj\Desktop\Work\Portofoliu proiecte\YouTube Downloader pentru RST - C#\obj\x86\Debug\YouTube Downloader.exe
+C:\Users\MrGrj\Desktop\Work\Portofoliu proiecte\YouTube Downloader pentru RST - C#\obj\x86\Debug\YouTube Downloader.pdb
+C:\Users\MrGrj\Desktop\Work\Portofoliu proiecte\YouTube Downloader pentru RST - C#\bin\Debug\YouTube Downloader.exe
+C:\Users\MrGrj\Desktop\Work\Portofoliu proiecte\YouTube Downloader pentru RST - C#\bin\Debug\YouTube Downloader.pdb
+C:\Users\MrGrj\Desktop\Work\Portofoliu proiecte\YouTube Downloader pentru RST - C#\obj\x86\Debug\YouTube Downloader.csprojResolveAssemblyReference.cache
+C:\Users\MrGrj\Desktop\Work\Portofoliu proiecte\YouTube Downloader pentru RST - C#\obj\x86\Debug\YouTube_Downloader.aboutDialog.resources
+C:\Users\MrGrj\Desktop\Work\Portofoliu proiecte\YouTube Downloader pentru RST - C#\obj\x86\Debug\YouTube_Downloader.frmFileDownloader.resources
+C:\Users\MrGrj\Desktop\Work\Portofoliu proiecte\YouTube Downloader pentru RST - C#\obj\x86\Debug\YouTube_Downloader.mainForm.resources
+C:\Users\MrGrj\Desktop\Work\Portofoliu proiecte\YouTube Downloader pentru RST - C#\obj\x86\Debug\YouTube_Downloader.Properties.Resources.resources
+C:\Users\MrGrj\Desktop\Work\Portofoliu proiecte\YouTube Downloader pentru RST - C#\obj\x86\Debug\YouTube Downloader.csproj.GenerateResource.Cache
